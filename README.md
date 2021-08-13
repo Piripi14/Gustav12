@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gustavo
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
+- 👀 I’m interested in informatik
+- 🌱 I’m currently learning informatik
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gustavoariel12@icloud.com
 
